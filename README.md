@@ -12,3 +12,5 @@ This helps investors track fund performance and analyze value differences.
 - **Investment Decision** – Choose to invest on mutual funds where nav differenceis 5%+.
 - **Simple & Intuitive UI** – Designed for ease of use with a clean interface.
 
+To run : npm run dev
+Demo : https://www.youtube.com/watch?v=XT_yX4O_HyU
